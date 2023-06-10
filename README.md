@@ -53,8 +53,6 @@ const anmol = {
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegox8x&theme=dark&show_icons=true)
-
 
 ---
 
@@ -79,3 +77,5 @@ Windows                  17 hrs 5 mins       ███████████�
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using Github Action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegox8x&theme=dark&show_icons=true)
